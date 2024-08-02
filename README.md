@@ -6,7 +6,7 @@
 ---
 
 
-- 🔭 I’m currently Studying on NIBM [(Ungraduated)BSc (Hons) Computer Science with Artificial Intelligence](https://www.nibm.lk/programmes/bsc-hons-computer-science-with-artificial-intelligence/)
+- 🔭 I’m currently Studying on NIBM [(Undergraduate)BSc (Hons) Computer Science with Artificial Intelligence](https://www.nibm.lk/programmes/bsc-hons-computer-science-with-artificial-intelligence/)
 
 - 🌱 I’m currently learning **AI**
 
